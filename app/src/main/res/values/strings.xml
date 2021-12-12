@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NoteKeeper</string>
+    <string name="note_keeper">Note Keeper</string>
+    <string name="write_your_texts_here">Write Your Texts Here !</string>
+    <string name="save">SAVE</string>
+</resources>
